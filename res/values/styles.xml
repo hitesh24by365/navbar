@@ -1,0 +1,14 @@
+<resources>
+
+    <style name="nav_bar">
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:padding">5dp</item>
+        <item name="android:background">@drawable/nav_bar_drawable</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:drawableLeft">@drawable/navbar_anim</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+</resources>

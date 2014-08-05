@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NavBarDemo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="dummy_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam elit mi, bibendum et quam sit amet, rhoncus tristique risus. Phasellus feugiat hendrerit tempor. Curabitur ultricies fermentum elementum. Sed id sagittis elit. Quisque mattis sapien eget tellus facilisis imperdiet malesuada eget sapien. Nullam vel suscipit ligula, ut aliquam ante. Aenean ullamcorper lectus in turpis euismod porta. Duis ultricies accumsan elementum. Aliquam mi risus, vulputate nec nisi eget, rutrum ullamcorper eros. Fusce hendrerit tempor arcu, in porta nunc convallis viverra. Morbi laoreet elit ac turpis accumsan, sit amet hendrerit purus fermentum. Quisque varius metus congue justo convallis, eu iaculis ipsum adipiscing. Nam id elementum est, a elementum nisi.</string>
+
+</resources>
